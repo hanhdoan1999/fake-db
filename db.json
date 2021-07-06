@@ -1,14 +1,7 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "id": 1, "task": "Task 1", "complete":true},
+    { "id": 2, "task": "Task 2","complete":false},
+    { "id": 3, "task": "Task 3","complete":true }
+  ]
 }
